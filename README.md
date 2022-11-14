@@ -10,7 +10,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 1. get the code from the repository and run the following command
  ```
- git clone
+ git clone https://github.com/609harsh/Heart-Failure-prediction-using-ANN.git
  ```
 2. install required python packages if previously not installed
 3. Finally run on Jupyter Notebook and enjoy 😉
